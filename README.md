@@ -2,7 +2,7 @@
 
 | Class Date | Resources |
 |------------|-----------|
-|7/15 10am   | Link      |
+|7/15 10am   | [Link](https://github.com/marteczkah/BAM_coding_resources/tree/main/Class_1)     |
 |7/21 10:30am   | Link      |
 
 Contact info:
