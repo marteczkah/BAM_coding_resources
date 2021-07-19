@@ -9,7 +9,7 @@ Contact info:
 martahasny@gmail.com
 
 # Additional Resources
-| Resource | Link |\
+| Resource | Link |
 | -------- | ---- |
 | Official Python Documentation | https://docs.python.org/3.8/tutorial/index.html |
 | Repository of various Python projects | https://github.com/Python-World/python-mini-projects |
