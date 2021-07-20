@@ -2,8 +2,8 @@
 
 | Class Date | Resources |
 |------------|-----------|
-|7/15 10am   | [Link](https://github.com/marteczkah/BAM_coding_resources/tree/main/Class_1)     |
-|7/21 10:30am   | Link      |
+|7/15 10am   | [Link](https://github.com/marteczkah/BAM_coding_resources/tree/main/Class_1_Marta)     |
+|7/21 10:30am   | [Link](https://github.com/marteczkah/BAM_coding_resources/tree/main/Class_2_Marta)      |
 
 Contact info:
 martahasny@gmail.com
