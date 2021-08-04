@@ -1,3 +1,6 @@
+# HOMEWORK
+# Complete 3 out of 5 (or more if you want :)
+
 # Exercise 1
 # Write a function that checks if ANY number in a list is even. Return true if yes, else return FALSE.
 

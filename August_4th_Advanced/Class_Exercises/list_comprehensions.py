@@ -14,3 +14,15 @@
 
 # Exercise 5
 # Create a list of odd integers from 1 to 100. 
+
+def print_result(a,b):
+    print(a+b)
+
+def return_result(a):
+    if a == 7:
+        return a
+    else:
+        print('a')
+
+print_result(4,5)
+return_result(10)
