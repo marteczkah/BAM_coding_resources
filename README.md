@@ -6,7 +6,7 @@
 |7/21 10:30am - Marta   | [Link](https://github.com/marteczkah/BAM_coding_resources/tree/main/Class_2_Marta)      |
 |8/3 Advanced Section | [Link](https://github.com/marteczkah/BAM_coding_resources/tree/main/August_3rd_Advanced) |
 |8/4 Advanced Section | [Link](https://github.com/marteczkah/BAM_coding_resources/tree/main/August_4th_Advanced) |
-|8/5 Advanced Section (Tkinter Tutorial) | [Link](https://github.com/marteczkah/elaphant_app) |
+|8/5 + 8/11 Advanced Section (Tkinter Tutorial) | [Link](https://github.com/marteczkah/elaphant_app) |
 
 Marta's contact info:
 martahasny@gmail.com
